@@ -38,7 +38,7 @@ body {
 
          }
          #image-contaner{
-           width: 50%;
+           width: 80%;
            height: auto;
            margin: 32px 32px;
          }
@@ -78,7 +78,9 @@ body {
                      font-size: x-large;
                     }
                     .pictures{
-                      margin:32px 32px;
+                      margin:52px 32px;
+                      width: 80%;
+                      
                     }
                     
 
